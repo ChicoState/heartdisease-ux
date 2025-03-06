@@ -29,8 +29,8 @@ We set out to design a heart disease risk predictor that makes it simpler for pe
 
 ##### What We Learned:
 - Even strong medical or technical foundations must be communicated in a way that non-experts understand.
--Short definitions and tooltips can bridge the knowledge gap.
--Considering data biases and ensuring the product can be adapted or updated is critical to addressing a wide range of user needs.
+- Short definitions and tooltips can bridge the knowledge gap.
+- Considering data biases and ensuring the product can be adapted or updated is critical to addressing a wide range of user needs.
 - Ongoing user feedback and iterative testing are crucial for refining the design and ensuring it meets the needs of diverse demographics
 
 These findings serve as a guiding framework for subsequent phases, where user insights and competitor benchmarks will continue shaping the design and validation of our heart disease risk predictor.
