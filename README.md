@@ -1,14 +1,12 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+# HeartDisease
 
-# !!!Project Name!!!
-
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Heart Disease Risk detection using an AI model.
 
 ## UX Team Members
 
-* **[!!!Person A name!!!](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
-* **[!!!Person B name!!!](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
-* **[!!!Person C name!!!](!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
+* **[Numan Khan](https://usabilityengineering.github.io/portfolio-numan-7/)** 
+* **[Tony Ferriera](https://usabilityengineering.github.io/portfolio-Tony-Ton3/)** 
+* **[Raghav Chandna](https://usabilityengineering.github.io/portfolio-RC-15-coder/)** 
 
 # User-Centered Design Artifacts
 
@@ -19,11 +17,23 @@
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
-**Executive Summary**
+**Executive Summary:**
 
-!!!Put phase I Executive Summary here!!!
+##### Overall Objective 
+We set out to design a heart disease risk predictor that makes it simpler for people to assess their potential risk without needing frequent, in-person medical visits. Our work included researching existing risk estimator tools, conducting heuristic evaluations, and developing personas and scenarios based on real-world contexts.
 
-[Full phase I report](phaseI/)
+##### Big-Picture Insights:
+- Competitor research revealed that cluttered interfaces, specialized medical jargon, and no guidance on biometrics reduce usability and trust.
+- Heuristic evaluations highlighted the need for clear instructions, error prevention, and more intuitive layouts.
+- Persona and scenario work showed that seniors, busy professionals, and other user groups require different forms of guidance and reassurance.
+
+##### What We Learned:
+- Even strong medical or technical foundations must be communicated in a way that non-experts understand.
+-Short definitions and tooltips can bridge the knowledge gap.
+-Considering data biases and ensuring the product can be adapted or updated is critical to addressing a wide range of user needs.
+- Ongoing user feedback and iterative testing are crucial for refining the design and ensuring it meets the needs of diverse demographics
+
+These findings serve as a guiding framework for subsequent phases, where user insights and competitor benchmarks will continue shaping the design and validation of our heart disease risk predictor.
 
 # Phase II: Refining interaction and designing wireframes
 
