@@ -39,9 +39,15 @@ These findings serve as a guiding framework for subsequent phases, where user in
 
 # Phase II: Refining interaction and designing wireframes
 
+**Contributions**
+
+* **[Numan Khan](https://usabilityengineering.github.io/portfolio-numan-7/)** - Analysis, Wireframes, Refining Wireframes after Feedback
+* **[Tony Ferriera](https://usabilityengineering.github.io/portfolio-Tony-Ton3/)** - Initial Sketches, Wireframes, Identify improvements after Feedback
+* **[Raghav Chandna](https://usabilityengineering.github.io/portfolio-RC-15-coder/)** - Analysis, Wireframes, Refining Wireframes after Feedback
+
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+In this sprint, our main goal was to gather feedback and refine our design based on that feedback. Evaluators in our cognitive walkthroughs generally found the website clear and easy to navigate, but identified specific problems with unclear biometric data inputs. Informal feedback from the Software Engineering students showed that users prioritize transparency regarding an AI model’s training data, accuracy, and risk calculation methodology. Therefore, our immediate focus will be clarifying biometric input instructions and providing detailed transparency about the AI model to enhance user trust and usability.
 
 [Full phase II report](phaseII/)
 
