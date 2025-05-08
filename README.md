@@ -61,7 +61,7 @@ In this sprint, our main goal was to gather feedback and refine our design based
 
 **Executive Summary**
 
-This sprint focused on evaluating our wireframe prototype through a user study involving six participants. The study aimed to gather both qualitative and quantitative data to inform design improvements.
+This sprint focused on evaluating our wireframe prototype through a **user study** involving **six** participants. The study aimed to gather both **qualitative** and **quantitative** data to inform design improvements.
 
 **Key Takeaways**:
   - The user study provided valuable insights into the prototype's usability.
