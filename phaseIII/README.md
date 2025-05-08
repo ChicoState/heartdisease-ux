@@ -90,15 +90,11 @@ The dashboard was generally well-received. Participant 2 described it as "neat a
 
 Participants 1, 3, 4, and 5 all found the overall process of using the application to be easy and straightforward. Participant 5 also liked the "navigate back" button on the "how to measure" page.
 
-In summary, while the application was generally found to be easily accessible, the "About" page and, to a lesser extent, the dashboard design, represent areas needing improvement, with specific participants highlighting the difficulties and potential solutions.
-
 [Link to Spreadsheet](https://docs.google.com/spreadsheets/d/1KdUS-SbOOybxD6Isx_X-41SRt3kASANTLCVkW2xjnd0/edit?gid=0#gid=0)
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
-
-- [In conclusions] The interpretation of your findings, including both (A) recommended changes to improve the user experience and (B) aspects of the design that are affirmed to remain as-is
+Based on the user feedback, we will address the issues with the "About" page. Specifically, we will rename the page to "Model" and revise the information provided to improve user understanding of the AI model.  Based on the generally positive feedback, the other pages will remain largely the same.
 
 ## Caveats
 
