@@ -13,7 +13,7 @@ Heart Disease Risk detection using an AI model.
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](https://www.figma.com/proto/VSskEUepv1LhgpfSw82OXf/heartdisease-prototype?node-id=0-1&t=SbXdY8CAHt4GYeqT-1)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
