@@ -76,8 +76,23 @@ These questions assessed task completion, perceived difficulty, and the helpfuln
 
 ## Findings
 
-- [In findings] A summary of your data (including overall trends in qualitative and quantitative data
-- [In findings] A link to the spreadsheet for data collection, with rows filled out representing the data collected
+The user study of the heart disease risk predictor prototype revealed generally positive user feedback regarding navigability and usability. Participants found the prototype easy to use, with task difficulty consistently rated between 4 and 5. The risk assessment tasks, both with and without account creation, and exploring resources were particularly well-received.
+
+The majority of participants (Participants 1, 2, 3, and 4) found the prototype easy to use, see here:
+
+![Participants Rating of Tasks](https://github.com/user-attachments/assets/9bbf2baa-8462-43b7-b9dc-6e65c569d720)
+
+Task 3, "Understanding the AI Model," was the most challenging for participants. Participant 2, in particular, expressed significant difficulty with the "About" page, stating that an "ordinary person would not be able to understand" it and rated the task with a 2 for difficulty.
+
+The "About" page, which explains the AI model, was a key area of concern. Participant 6 indicated that the information about the model was unclear, including how it was developed and how it works, and specifically mentioned confusion about the confusion matrix.
+
+The dashboard was generally well-received. Participant 2 described it as "neat and organized," and Participants 3 and 4 also found it clear. However, Participant 5 noted that the dashboard had a lot of empty space before viewing a past diagnosis.
+
+Participants 1, 3, 4, and 5 all found the overall process of using the application to be easy and straightforward. Participant 5 also liked the "navigate back" button on the "how to measure" page.
+
+In summary, while the application was generally found to be easily accessible, the "About" page and, to a lesser extent, the dashboard design, represent areas needing improvement, with specific participants highlighting the difficulties and potential solutions.
+
+[Link to Spreadsheet](https://docs.google.com/spreadsheets/d/1KdUS-SbOOybxD6Isx_X-41SRt3kASANTLCVkW2xjnd0/edit?gid=0#gid=0)
 
 ## Conclusions
 
