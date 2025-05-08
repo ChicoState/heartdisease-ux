@@ -55,9 +55,9 @@ In this sprint, our main goal was to gather feedback and refine our design based
 
 **Contributions**
 
-* **[Numan Khan](https://usabilityengineering.github.io/portfolio-numan-7/)** - Analysis, Wireframe Design, Wireframe Prototyping, Wireframe Coloring, Refining Wireframes after Feedback, User Test Judge/Participant
-* **[Tony Ferriera](https://usabilityengineering.github.io/portfolio-Tony-Ton3/)** - Initial Sketches, Wireframe Design, Identify improvements after Feedback, Wireframe Prototyping, User Test Judge/Participant
-* **[Raghav Chandna](https://usabilityengineering.github.io/portfolio-RC-15-coder/)** - Analysis, Wireframe Design, Refining Wireframes after Feedback, Wireframe Prototyping, User Test Judge/Participant
+* **[Numan Khan](https://usabilityengineering.github.io/portfolio-numan-7/)** - Analysis, Wireframe Design, Wireframe Prototyping, Wireframe Coloring, Refining Wireframes after User Study
+* **[Tony Ferriera](https://usabilityengineering.github.io/portfolio-Tony-Ton3/)** - Initial Sketches, Wireframe Design, Identify improvements after Feedback, Wireframe Prototyping, Refining Wireframes after User Study
+* **[Raghav Chandna](https://usabilityengineering.github.io/portfolio-RC-15-coder/)** - Analysis, Wireframe Design, Refining Wireframes after Feedback, Wireframe Prototyping
 
 **Executive Summary**
 
