@@ -75,4 +75,6 @@ This sprint focused on evaluating our wireframe prototype through a **user study
 
 [Published Prototype]()
 
+[Protocol Used](phaseIII/x17_Draft_Protocol.pdf)
+
 [Full phase III report](phaseIII/)
