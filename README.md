@@ -66,10 +66,10 @@ This sprint focused on evaluating our wireframe prototype through a user study i
 **Key Takeaways**:
   - The user study provided valuable insights into the prototype's usability.
   - We obtained both qualitative and quantitative data.
-  - The prototype demonstrates good overall usability, with some areas needing improvement.Primary areas for improvement include:
+  - The prototype demonstrates good overall usability, with some areas needing improvement.
+  - Primary areas for improvement include:
     - Improving the clarity and content of the "About" page, particularly regarding the AI model.
-    - Reconsidering the labeling of the "Help" button.
-    - Optimizing the dashboard layout to avoid excessive empty space.
+    - Reconsidering the labeling of Navbar titles.
   
   This data will be used to drive design iterations and improve the final product.
 
