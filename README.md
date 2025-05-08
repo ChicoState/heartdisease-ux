@@ -53,8 +53,24 @@ In this sprint, our main goal was to gather feedback and refine our design based
 
 # Phase III: Prototypes and User Testing
 
+**Contributions**
+
+* **[Numan Khan](https://usabilityengineering.github.io/portfolio-numan-7/)** - Analysis, Wireframe Design, Wireframe Prototyping, Wireframe Coloring, Refining Wireframes after Feedback, User Test Judge/Participant
+* **[Tony Ferriera](https://usabilityengineering.github.io/portfolio-Tony-Ton3/)** - Initial Sketches, Wireframe Design, Identify improvements after Feedback, Wireframe Prototyping, User Test Judge/Participant
+* **[Raghav Chandna](https://usabilityengineering.github.io/portfolio-RC-15-coder/)** - Analysis, Wireframe Design, Refining Wireframes after Feedback, Wireframe Prototyping, User Test Judge/Participant
+
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+This sprint focused on evaluating our wireframe prototype through a user study involving six participants. The study aimed to gather both qualitative and quantitative data to inform design improvements.
+
+**Key Takeaways**:
+  - The user study provided valuable insights into the prototype's usability.
+  - We obtained both qualitative and quantitative data.
+  - The prototype demonstrates good overall usability, with some areas needing improvement.Primary areas for improvement include:
+    - Improving the clarity and content of the "About" page, particularly regarding the AI model.
+    - Reconsidering the labeling of the "Help" button.
+    - Optimizing the dashboard layout to avoid excessive empty space.
+  
+  This data will be used to drive design iterations and improve the final product.
 
 [Full phase III report](phaseIII/)
