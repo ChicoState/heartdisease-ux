@@ -73,7 +73,7 @@ This sprint focused on evaluating our wireframe prototype through a **user study
   
   This data will be used to drive design iterations and improve the final product.
 
-[Published Prototype]()
+[Published Prototype](https://www.figma.com/proto/VSskEUepv1LhgpfSw82OXf/heartdisease-prototype?node-id=0-1&t=SbXdY8CAHt4GYeqT-1)
 
 [Protocol Used](phaseIII/x17_Draft_Protocol.pdf)
 
